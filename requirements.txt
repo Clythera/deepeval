@@ -1,0 +1,6 @@
+deepeval==4.2.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.31.1
+pydantic>=2.9.2
+openai>=1.54.3
+pytest==8.3.4
